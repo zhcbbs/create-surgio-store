@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,youtube.com,{{ rule }}
 DOMAIN-SUFFIX,googlevideo.com,{{ rule }}
 DOMAIN-SUFFIX,youtube-nocookie.com,{{ rule }}
 DOMAIN-SUFFIX,youtu.be,{{ rule }}
+DOMAIN-SUFFIX,gvt2.com,{{ rule }}
 USER-AGENT,*YouTube*,{{ rule }}
 USER-AGENT,com.google.ios.youtube*,{{ rule }}
 
